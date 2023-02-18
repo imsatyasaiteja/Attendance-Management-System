@@ -1,4 +1,4 @@
-# Attendance Marker Using Facial Recognition
+# Attendance Management System
 
 A C++ program that uses facial recognition technology to mark attendance for events, classes, or meetings. 
 
@@ -6,41 +6,41 @@ The program is equipped with a graphical user interface (GUI) for easy usage.
 
 ## Requirements
 
-OpenCV library for facial recognition.
+- OpenCV library for facial recognition.
 
-Qt for GUI design and development.
+- Qt for GUI design and development.
 
 ## Features 
 
-Ability to add new faces to the database for recognition.
+- Ability to add new faces to the database for recognition.
 
-Automatic recognition of registered faces.
+- Automatic recognition of registered faces.
 
-GUI for easy attendance marking and management.
+- GUI for easy attendance marking and management.
 
-Records attendance in a text file for later analysis.
+- Records attendance in a text file for later analysis.
 
 ## Windows
 
-- Install OpenCV, OpenCV contrib and QT on your system
+- Install OpenCV, OpenCV contrib and QT on your system.
   
 - Clone or download this repository to your local system.
   
 - Open the project in Qt, modify the necessary paths, and build the project.
   
 - Run the executable file to start the program.
-  
+
 ## Linux
 
 - [QT installation](https://web.stanford.edu/dept/cs_edu/resources/qt/install-linux)
   
 - [OpenCV and OpenCV Contrib installation](https://www.skynats.com/blog/installing-opencv-on-ubuntu-20-04/#)
     
-- Clone or download this repository to your local system
+- Clone or download this repository to your local system.
     
-- Open the project in Qt, modify the necessary paths and build the project
+- Open the project in Qt, modify the necessary paths and build the project.
   
-- Run the executable file to start the program 
+- Run the executable file to start the program.
     
 ## Usage    
     
