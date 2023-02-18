@@ -60,16 +60,8 @@ Records attendance in a text file for later analysis.
 
 ## Preview
 
-
-  ![Ams(1)](https://user-images.githubusercontent.com/85508314/219868699-863a9499-a6b2-4527-a8c7-9455be704bfc.png)
-  ![Ams(2)](https://user-images.githubusercontent.com/85508314/219868707-727d04a6-04f0-48ce-ac49-c4702b0a7aef.png)
-
-  ![Ams(3)](https://user-images.githubusercontent.com/85508314/219868709-0a5d87f4-984a-406e-a167-5fc8b3e4632f.png)
-  ![Ams(4)](https://user-images.githubusercontent.com/85508314/219868712-746f6ba3-60e1-49d6-a8ed-0baa73fe8f9f.png)
-  
-  ![Ams(5)](https://user-images.githubusercontent.com/85508314/219868716-331e4950-7fd9-4a1c-98ee-8832366ff1a4.png)
-  ![Ams(6)](https://user-images.githubusercontent.com/85508314/219868767-e02e6d29-d397-4ce6-ae4e-40df660cbc97.png)
-
+![ams(1)](https://user-images.githubusercontent.com/85508314/219870048-682b438f-e9c5-40e1-9d5a-8e73c0b0da9d.jpg)
+![ams(2)](https://user-images.githubusercontent.com/85508314/219870051-a9238672-e775-47a8-9902-46d9be5cc7c7.jpg)
 
 ## Limitations 
 
