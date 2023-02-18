@@ -66,11 +66,11 @@ Additionally, the program may not be able to recognize faces with significant ch
 
 ## Team Members
 
-- Holesh Sharma
+- [Shivam Litoria](https://github.com/Litoriashiv)
 
-- Shivam Litoria
+- [Holesh Sharma](https://github.com/holesh01)
     
-- M Satya Sai Teja (Myself)
+- [M Satya Sai Teja](https://github.com/imsatyasaiteja) (Myself)
 
 ## Contribute
 
