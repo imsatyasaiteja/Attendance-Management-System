@@ -4,6 +4,11 @@ A C++ program that uses facial recognition technology to mark attendance for eve
 
 The program is equipped with a graphical user interface (GUI) for easy usage.
 
+## Preview
+
+![ams(1)](https://user-images.githubusercontent.com/85508314/219870048-682b438f-e9c5-40e1-9d5a-8e73c0b0da9d.jpg)
+![ams(2)](https://user-images.githubusercontent.com/85508314/219870051-a9238672-e775-47a8-9902-46d9be5cc7c7.jpg)
+
 ## Requirements
 
 - OpenCV library for facial recognition.
@@ -57,11 +62,6 @@ The program is equipped with a graphical user interface (GUI) for easy usage.
 - Registered faces will be automatically recognized, and attendance will be marked in real-time.
 
 - The attendance records can be viewed in the text file created in the folder of the batch entered automatically.
-
-## Preview
-
-![ams(1)](https://user-images.githubusercontent.com/85508314/219870048-682b438f-e9c5-40e1-9d5a-8e73c0b0da9d.jpg)
-![ams(2)](https://user-images.githubusercontent.com/85508314/219870051-a9238672-e775-47a8-9902-46d9be5cc7c7.jpg)
 
 ## Limitations 
 
