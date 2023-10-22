@@ -6,8 +6,8 @@ The program is equipped with a graphical user interface (GUI) for easy usage.
 
 ## Preview
 
-![ams(1)](https://user-images.githubusercontent.com/85508314/219870048-682b438f-e9c5-40e1-9d5a-8e73c0b0da9d.jpg)
-![ams(2)](https://user-images.githubusercontent.com/85508314/219870051-a9238672-e775-47a8-9902-46d9be5cc7c7.jpg)
+<img src="https://user-images.githubusercontent.com/85508314/219870048-682b438f-e9c5-40e1-9d5a-8e73c0b0da9d.jpg" width="700" alt="ams(1)">
+<img src="https://user-images.githubusercontent.com/85508314/219870051-a9238672-e775-47a8-9902-46d9be5cc7c7.jpg" width="700" alt="ams(2)">
 
 ## Requirements
 
@@ -25,27 +25,32 @@ The program is equipped with a graphical user interface (GUI) for easy usage.
 
 - Records attendance in a text file for later analysis.
 
-## Windows
+# Installation
+>Windows
 
-- Install OpenCV, OpenCV contrib and QT on your system.
-  
-- Clone or download this repository to your local system.
-  
-- Open the project in Qt, modify the necessary paths, and build the project.
-  
-- Run the executable file to start the program.
+    Install OpenCV and Qt on your system.
+    
+    Clone or download this repository to your local system.
+    
+    Open the project in Qt and build the project.
+    
+    Run the executable file to start the program.
+>Linux
 
-## Linux
+    Install OpenCV and Qt using the terminal by executing the following commands:
+    
+      sudo apt-get install libopencv-dev
+      sudo apt-get install qt6-default
+      
+    Clone or download this repository to your local system.
+    
+    Open the project in Qt and build the project.
+    
+    Run the executable file to start the program.
 
 - [QT installation](https://web.stanford.edu/dept/cs_edu/resources/qt/install-linux)
   
 - [OpenCV and OpenCV Contrib installation](https://www.skynats.com/blog/installing-opencv-on-ubuntu-20-04/#)
-    
-- Clone or download this repository to your local system.
-    
-- Open the project in Qt, modify the necessary paths and build the project.
-  
-- Run the executable file to start the program.
     
 ## Usage    
     
@@ -53,9 +58,9 @@ The program is equipped with a graphical user interface (GUI) for easy usage.
 
 - Add student data to the database and then add face data by clicking the "Add face" button and capturing images of the individual by using any of the two options present:
 
-    1. WebCam
+    1) WebCam
 
-    2. Video (In case of the this option video should be already present in database folder and it's relative path should be entered when prompted)
+    2) Video (In case of the this option the recorded video should already be present in database folder and it's relative path should be entered when prompted)
 
 - Navigate to the "Mark attendance" tab to start the facial recognition process.
 
