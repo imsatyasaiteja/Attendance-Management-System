@@ -63,9 +63,9 @@ Additionally, the program may not be able to recognize faces with significant ch
 
 ## Team Members
 
-- [Shivam Litoria](https://github.com/Litoriashiv)  
-- [Holesh Sharma](https://github.com/holesh01)  
-- [M Satya Sai Teja](https://github.com/imsatyasaiteja) (Myself)
+- [M Satya Sai Teja](https://github.com/imsatyasaiteja) (Myself) [GUI App Developer & Code Debugger]
+- [Shivam Litoria](https://github.com/Litoriashiv) [Face Detection & Core Working]
+- [Holesh Sharma](https://github.com/holesh01) [Code Debugger & Software Tester]
 
 ## Contribute
 
