@@ -1,4 +1,4 @@
-# Attendance Management System
+# Attendance Management System (GUI) Application
 
 A graphical user interface (GUI) Application built on QT Creator, utilizing C++ programming, QMake and OpenCV libraries.
 The application uses facial recognition technology to mark attendance for events, classes, or meetings.  
